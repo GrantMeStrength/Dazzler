@@ -14,3 +14,4 @@ I forked the project to investigate how to make it run on a Raspberry Pi Zero, a
 * [VisualGBD](https://visualgdb.com)
 * [Developing C++ Projects for Raspberry Pi Zero from Windows](https://visualgdb.com/tutorials/raspberry/zero/)
 * [Wine](https://www.winehq.org)
+* [Bare metal programming on Raspberry Pi](https://github.com/bztsrc/raspi3-tutorial)
