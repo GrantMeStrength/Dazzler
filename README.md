@@ -11,4 +11,6 @@ I forked the project to investigate how to make it run on a Raspberry Pi Zero, a
 ## Resources
 
 * [Visual C++ for Linux and Raspberry Pi](https://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)
+* [VisualGBD](https://visualgdb.com)
 * [Developing C++ Projects for Raspberry Pi Zero from Windows](https://visualgdb.com/tutorials/raspberry/zero/)
+* [Wine](https://www.winehq.org)
